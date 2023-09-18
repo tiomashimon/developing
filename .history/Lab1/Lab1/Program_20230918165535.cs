@@ -32,6 +32,6 @@ class Program
 
         // Очищення масиву 
         Array.Clear(myArray, 0, myArray.Length);
-        Console.WriteLine("Масив очищений.");
+        Console.WriteLine("Масив очищений/");
     }
 }
