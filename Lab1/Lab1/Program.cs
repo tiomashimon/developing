@@ -4,6 +4,7 @@ class Program
 {
     static void Main()
     {
+        //task1
         string[] myArray = new string[6];
 
         myArray[0] = "Integer";
@@ -34,7 +35,7 @@ class Program
         Array.Clear(myArray, 0, myArray.Length);
         Console.WriteLine("Масив очищений");
 
-
+            //task 2
             
             int[] numbers = { 10, 5, 8, 2, 7, 1 };
 
