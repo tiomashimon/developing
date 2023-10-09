@@ -1,0 +1,5 @@
+<Aeroport>
+  <Flight Number="Flight1" Destination="City1" Seats="101" Duration="1 hours" Price="1100" />
+  <Flight Number="Flight2" Destination="City2" Seats="102" Duration="2 hours" Price="1200" />
+  <Flight Number="Flight3" Destination="City3" Seats="103" Duration="3 hours" Price="1300" />
+</Aeroport>

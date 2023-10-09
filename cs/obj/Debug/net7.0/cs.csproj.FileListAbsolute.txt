@@ -1,0 +1,14 @@
+/home/tioma/Desktop/cs/bin/Debug/net7.0/cs
+/home/tioma/Desktop/cs/bin/Debug/net7.0/cs.deps.json
+/home/tioma/Desktop/cs/bin/Debug/net7.0/cs.runtimeconfig.json
+/home/tioma/Desktop/cs/bin/Debug/net7.0/cs.dll
+/home/tioma/Desktop/cs/bin/Debug/net7.0/cs.pdb
+/home/tioma/Desktop/cs/obj/Debug/net7.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/tioma/Desktop/cs/obj/Debug/net7.0/cs.AssemblyInfoInputs.cache
+/home/tioma/Desktop/cs/obj/Debug/net7.0/cs.AssemblyInfo.cs
+/home/tioma/Desktop/cs/obj/Debug/net7.0/cs.csproj.CoreCompileInputs.cache
+/home/tioma/Desktop/cs/obj/Debug/net7.0/cs.dll
+/home/tioma/Desktop/cs/obj/Debug/net7.0/refint/cs.dll
+/home/tioma/Desktop/cs/obj/Debug/net7.0/cs.pdb
+/home/tioma/Desktop/cs/obj/Debug/net7.0/cs.genruntimeconfig.cache
+/home/tioma/Desktop/cs/obj/Debug/net7.0/ref/cs.dll
