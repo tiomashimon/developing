@@ -1,0 +1,17 @@
+/home/tioma/Desktop/developing/lab4/bin/Debug/net7.0/lab4
+/home/tioma/Desktop/developing/lab4/bin/Debug/net7.0/lab4.deps.json
+/home/tioma/Desktop/developing/lab4/bin/Debug/net7.0/lab4.runtimeconfig.json
+/home/tioma/Desktop/developing/lab4/bin/Debug/net7.0/lab4.dll
+/home/tioma/Desktop/developing/lab4/bin/Debug/net7.0/lab4.pdb
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.AssemblyInfoInputs.cache
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.AssemblyInfo.cs
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.csproj.CoreCompileInputs.cache
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.dll
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/refint/lab4.dll
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.pdb
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.genruntimeconfig.cache
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/ref/lab4.dll
+/home/tioma/Desktop/developing/lab4/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.csproj.AssemblyReference.cache
+/home/tioma/Desktop/developing/lab4/obj/Debug/net7.0/lab4.csproj.CopyComplete

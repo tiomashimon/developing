@@ -1,0 +1,16 @@
+[
+  {
+    "FlightNumber": "AB123",
+    "DestinationCity": "New York",
+    "SeatCount": 200,
+    "FlightDuration": "06:00:00",
+    "TicketPrice": 500.0
+  },
+  {
+    "FlightNumber": "CD456",
+    "DestinationCity": "Paris",
+    "SeatCount": 150,
+    "FlightDuration": "03:00:00",
+    "TicketPrice": 400.0
+  }
+]

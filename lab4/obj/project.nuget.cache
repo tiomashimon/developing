@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdaOd3TsiDmP2V46/EaF+CdBOPwjsLSSNUp3TUg71LznkrlcjrvgG60bjZyfV1TZ42S7lIn/9BzQQ4NBdOLljg==",
+  "success": true,
+  "projectFilePath": "/home/tioma/Desktop/developing/lab4/lab4.csproj",
+  "expectedPackageFiles": [
+    "/home/tioma/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
