@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tioma/Desktop/developing/module/module.csproj": {}
+  },
+  "projects": {
+    "/home/tioma/Desktop/developing/module/module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tioma/Desktop/developing/module/module.csproj",
+        "projectName": "module",
+        "projectPath": "/home/tioma/Desktop/developing/module/module.csproj",
+        "packagesPath": "/home/tioma/.nuget/packages/",
+        "outputPath": "/home/tioma/Desktop/developing/module/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/tioma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/226/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
