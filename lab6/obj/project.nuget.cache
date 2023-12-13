@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+Wj5lMgfMd9hmMb9jNShmY5pKIwXSILxKG3KbiHDCnH9IlJCDglVeRcOz4u1oqcy57upHqtFiqqTWNICJs06g==",
+  "success": true,
+  "projectFilePath": "/home/tioma/Desktop/Python/developing/lab6/lab6.csproj",
+  "expectedPackageFiles": [
+    "/home/tioma/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/tioma/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/tioma/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
