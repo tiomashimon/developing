@@ -1,0 +1,1 @@
+﻿select distinct LastName, OrderAmount, ClientCompanyName from order;
